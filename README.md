@@ -13,5 +13,5 @@ I created this project as my final for my Microprocessor System Design final pro
 * Implemented dial-combination and keypad locks using state machines 
 * Displayed lock state, entered code, and dynamic instructions on screen
 <img src="Media/Lockbox.jpg" alt="LockboxPic" width="350"/>
-###[Link](Media/LockboxVideo.mp4)
+### [Link](Media/LockboxVideo.mp4)
 
