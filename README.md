@@ -21,12 +21,14 @@ Resume: [Link](Resume/ResumeFall2024.pdf)
 
 ## Expense Tracker Software
 
-Publishing Expense Tracker Software- UW Stout Honors Project
-	Strengthening teamwork skills by collaborating with a peer to plan and develop software
-	Coordinating with a mentor to maintain project timeline and obtain support if needed
-	Specifying system requirements using the software engineering process
-	Utilizing Python and a SQL database to implement expense tracker
-	Increasing proficiency with Python, Python libraries, and SQL databases
+* I am currently developing this software for a UW Stout Honors Project.
+* Utilizing Python with Kivy library to create application front-end
+* Utilizing a SQL database to store expenses and get data queries
+* Strengthening teamwork skills by collaborating with a peer to plan and develop software
+* Coordinating with a mentor to maintain project timeline and obtain support if needed
+* Specifying system requirements using the software engineering process
+* Increasing proficiency with Python, Python libraries, and SQL databases
 
+[Code](https://github.com/ElijahTurany/ExpenseTracker)
 
 
