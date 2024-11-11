@@ -17,6 +17,8 @@ I created this project as my final for my Microprocessor System Design final pro
 
 [Video Link](https://liveuwstout-my.sharepoint.com/:v:/r/personal/turanye6132_my_uwstout_edu/Documents/Attachments/2024-05-06-00-16-58-665.mp4?csf=1&web=1&e=oHTt2m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+[Code](https://github.com/ElijahTurany/MicroprocessorCode/tree/main/FinalLockBox/Src)
+
 <img src="Media/Lockbox.jpg" alt="LockboxPic" width="350"/>
 
 
