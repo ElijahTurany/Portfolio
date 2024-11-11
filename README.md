@@ -12,5 +12,5 @@ I created this project as my final for my Microprocessor System Design final pro
 * Wrote bare-metal C code on microprocessor to handle I/O devices and program logic
 * Implemented dial-combination and keypad locks using state machines 
 * Displayed lock state, entered code, and dynamic instructions on screen
-  [LockboxPic](Media/Lockbox.jpg)
+  ![LockboxPic](Media/Lockbox.jpg)
 
